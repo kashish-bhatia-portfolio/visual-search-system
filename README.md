@@ -13,5 +13,5 @@
 * ### Transformer-based architectures (trending)
   * **VIT**
 
-## Machine learning flowchart for choosing project components.
+# Machine learning flowchart for choosing project components
 ![Choices](choices.jpg)
