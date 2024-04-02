@@ -12,3 +12,6 @@
   * **ResNet**
 * ### Transformer-based architectures (trending)
   * **VIT**
+
+## Visualisation
+![Choices](choices.jpg)
